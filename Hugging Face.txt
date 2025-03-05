@@ -1,0 +1,6 @@
+🤗 Hugging Face
+├── 🚀 Model Hub (Kho mô hình AI có sẵn)
+├── 🏗️ Transformers (Mô hình NLP, Vision,...)
+├── 🔄 Datasets (Kho dữ liệu AI: SQuAD, IMDB,...)
+├── 📦 Tokenizers (Xử lý văn bản nhanh)
+├── 📡 Inference API (Triển khai mô hình nhanh)

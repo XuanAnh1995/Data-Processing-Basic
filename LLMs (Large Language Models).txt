@@ -1,0 +1,21 @@
+🌐 LLMs (Large Language Models - Mô hình ngôn ngữ lớn)
+├── 🔍 GPT (Generative Pre-trained Transformer)
+│ ├── GPT-3 (175 tỷ tham số)
+│ ├── GPT-4 (Mạnh hơn, khả năng đa phương thức)
+│ ├── ChatGPT (Ứng dụng hội thoại AI)
+│
+├── 📖 BERT & Variants
+│ ├── BERT (Mô hình đọc hiểu ngôn ngữ song song)
+│ ├── RoBERTa (BERT cải tiến với dữ liệu lớn hơn)
+│ ├── DistilBERT (Phiên bản nhẹ hơn, nhanh hơn)
+│
+├── 🦙 Mô hình mã nguồn mở khác
+│ ├── LLaMA (Meta AI)
+│ ├── Falcon (AI21 Labs)
+│ ├── Mistral AI (Cạnh tranh với GPT)
+│
+├── 🤖 Ứng dụng của LLMs
+│ ├── 🗣️ Chatbots (ChatGPT, Claude AI, Google Gemini)
+│ ├── 📝 Viết & tóm tắt văn bản tự động
+│ ├── 🔍 Truy xuất thông tin & hỗ trợ nghiên cứu
+│ ├── 🏗️ Sinh mã nguồn (Code Generation: Copilot, Code Llama)
